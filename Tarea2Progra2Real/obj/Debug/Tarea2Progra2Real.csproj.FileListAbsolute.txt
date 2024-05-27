@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\Tarea2Progra2Real\bin\Debug\Tarea2Progra2Real.exe.config
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\Tarea2Progra2Real\bin\Debug\Tarea2Progra2Real.exe
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\Tarea2Progra2Real\bin\Debug\Tarea2Progra2Real.pdb
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\Tarea2Progra2Real\obj\Debug\Tarea2Progra2Real.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\Tarea2Progra2Real\obj\Debug\Tarea2Progra2Real.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\Tarea2Progra2Real\obj\Debug\Tarea2Progra2Real.exe
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\Tarea2Progra2Real\obj\Debug\Tarea2Progra2Real.pdb
